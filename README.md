@@ -11,12 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
+
 
 # Resume
 
 ## Objective
 #### Software Developer with a deep foundational background as an experienced IT and Data Center Technicain. Combining over a decade of expertise in network architecture and hardware optimization, I bring a unique "full systems" perspective to problem solving, and writing efficient, scalable code.
+
+-->
 
 ## Experience
 #### JUNE 2025 - PRESENT 
